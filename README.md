@@ -42,7 +42,7 @@ Before you begin, ensure you have the following prerequisites:
     ```bash
     [submodule "lib/urdflib-ext"]
         path = lib/urdflib-ext
-        url = git@github.com:moh3nhadavi/urdflib.git
+        url = git@github.com:moh3nhadavi/urdflib-ext.git
     ```
 1. Save and exit the text editor.
 
